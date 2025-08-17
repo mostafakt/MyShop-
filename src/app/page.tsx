@@ -10,7 +10,7 @@ export default async function Home() {
   return (
     <div className="bg-base-100 text-base-content">
       {/* Hero Section */}
-      <section className="relative bg-[url('/images/homepage/hero.png')] bg-no-repeat bg-cover bg-center  overflow-hidden   from-primary/10 to-secondary/10">
+      <section className="relative overflow-hidden  bg-gradient-to-r from-primary to-secondary md:bg-[url('/images/homepage/hero.png')] bg-no-repeat bg-cover bg-center ">
         <div className="container mx-auto px-4 md:px-8 py-20 md:py-28 flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 z-10 text-center md:text-left mb-10 md:mb-0">
             <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-4  text-black dark:text-white">

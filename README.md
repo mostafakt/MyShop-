@@ -19,6 +19,8 @@ The implementation focuses on:
 * Hybrid rendering strategy (SSR for SEO, CSR for interactivity)
 * Clean file structure and reusable components
 
+**UI note:** styling, color choices, and the overall theme were inspired by the [daisyUI](https://daisyui.com) library — I used its palette and component-style approach as a visual reference while implementing Tailwind-based components.
+
 ---
 
 ## Table of contents
